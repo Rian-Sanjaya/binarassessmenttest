@@ -4,7 +4,7 @@ Preview link: https://rawgit.com/Rian-Sanjaya/binarassessmenttest/master/index.h
 
 Saya mengalami kesulitan dengan pengunaan api yang di referensikan. Saya kurang paham apakah saya yang kurang mengerti dengan pengunaannya.
 
-Url sistem backend yang di referensikan hasilnya https://test-binar.herokuapp.com hasilnya http error 404 Page not found.
+Url sistem backend yang di referensikan https://test-binar.herokuapp.com hasilnya http error 404 Page not found.
 
 Begitu juga url yang ada di dalam dokumentasi service api https://testbinar.docs.apiary.io/ , production url  http://polls.apiblueprint.org/ juga juga menghasilkan page not found.
 
