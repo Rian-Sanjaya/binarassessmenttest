@@ -1,0 +1,93 @@
+a {
+	text-decoration: none !important;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.main-header {
+	padding: 1px; /* removes the colapsing h1 top margin with the body margin */
+	width: 100%; /* 100% is the width of its container (.main-wrapper) */
+	min-height: 20px;
+	border-bottom: 1px solid;
+	margin-bottom: 20px;
+}
+
+.main-logo {
+	display: inline-block;
+	width: 150px;
+	font-weight: 700;
+	font-size: 1.5em;
+	padding-left: 20px;
+}
+
+.main-nav {
+	display: inline-block;
+}
+
+.left-nav {
+	border: 1px solid;
+	padding: 5px 10px;
+}
+
+.nav-right {
+	float: right;
+	margin: 20px 20px;
+}
+
+.product {
+	position: relative;
+	float: left;
+	width: 290px;
+	height: 290px;
+	margin: 0 30px 30px 0;
+	border: 1px solid;
+	/*text-align: center;*/
+}
+
+.product img {
+	width: 100%;
+	height: auto;
+	display: block;
+	border-top: .1px solid #000;
+}
+
+#product-image {
+	width: 400px;
+	height: auto;
+	display: block;
+}
+
+.p-text {
+	/*padding: 5px 10px;*/
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
+.mod {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 3;
+}
+
+.mod-item {
+	margin-right: 10px;
+}
+
+.mod-item:hover {
+	color: grey;
+}
+
+input {
+  border: 1px solid #bbb;
+  width: 50% !important;
+  height: auto !important;
+  margin-bottom: 15px;
+}
+
+.myform {
+	padding: 20px;
+}
