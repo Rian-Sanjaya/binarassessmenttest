@@ -21,5 +21,7 @@ e. Delete product (hanya menampilkan modal, fungsi delete belum berjalan karena 
 f. Login tidak dibuat, karena fungsi api yang belum dipahami, untuk layanan antar muka seharusnya sama seperti create product yang mengunakan form input
 g. Crate user tidak dibuat, arena fungsi api yang belum dipahami, untuk layanan antar muka seharusnya sama seperti create product yang mengunakan form input
 
+3. Tools editor mengunakan Sublime 3 dan google Chrome untuk melihat tampilan antar muka. Coding memakani HTML, CSS, JavaScript, jQuery, Bootstrap 3.3.7 dan Font Awesome 5.0.6.
+
 4. Kekurangan sepertinya harus ada layanan antar muka untuk edit product, sebelum update product. Juga referensi api https://testbinar.docs.apiary.io/ sepertinya tidak berjalan untuk production url.
 
